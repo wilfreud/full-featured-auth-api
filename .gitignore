@@ -1,0 +1,4 @@
+node_modules
+.env
+commitnotes.txt
+postman_env.json
