@@ -21,8 +21,6 @@
 - Pino - Logging
 - config - Managing configuration
 
-## What will you need to follow along?
+## Additional tools
 
 - Postman
-- NodeJS
-- MongoDB
