@@ -11,7 +11,7 @@
 
 ## Stack used
 
-- TypeScript - Static tye checking
+- TypeScript - Static type checking
 - Express - Web server
 - Typegoose - Mongoose wrapper for creating TypeScript interfaces and models
 - argon2 / bcrypt - Password hashing
