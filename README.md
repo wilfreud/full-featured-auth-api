@@ -1,4 +1,4 @@
-# Authentication REST API With {ExpressJS, TypeScript, Typegoose, Zod}
+# Authentication REST API With {ExpressJS, TypeScript}
 
 ## Features
 
